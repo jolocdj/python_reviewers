@@ -1,4 +1,4 @@
-# 🐍 Python Basics Reviewer
+# 🐍 Python Basics Reviewer 
 
 A simple and beginner-friendly collection of Python concepts, examples, and practice snippets. This repository is designed to help reinforce fundamental Python knowledge for students and self-learners.
 
