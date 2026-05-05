@@ -4,7 +4,7 @@ A simple and beginner-friendly collection of Python concepts, examples, and prac
 
 ---
 
-## 📌 Contents
+## 📌 Contents 
 
 * ✅ Variables & Data Types
 * ✅ Input & Output
