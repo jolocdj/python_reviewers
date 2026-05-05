@@ -14,7 +14,7 @@ A simple and beginner-friendly collection of Python concepts, examples, and prac
 * ✅ Functions
 * ✅ Lists, Tuples, Sets, Dictionaries
 * ✅ String Manipulation
-* ✅ Basic Error Handling
+* ✅ Basic Error Handling 
 * ✅ Simple Practice Exercises
 
 ---
