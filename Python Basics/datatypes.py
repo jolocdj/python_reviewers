@@ -41,3 +41,24 @@ print(type(x))  # Output: <class 'tuple'>
 
 x = range (6)
 print(type(x))  # Output: <class 'range'>
+
+x = {"name" : "James", "age" : "23"}
+print(type(x))  # Output: <class 'dict'>
+
+x = frozenset({"apple", "banana", "cherry"})
+print (type(x))  # Output: <class 'frozenset'>
+
+x = True
+print(type(x))  # Output: <class 'bool'>
+
+x = b"Hello"
+print(type(x))  # Output: <class 'bytes'>
+
+x = bytearray(5)
+print(type(x))  # Output: <class 'bytearray'>
+
+x = memoryview(bytes(5))
+print(type(x))  # Output: <class 'memoryview'>
+
+x = None
+print(type(x))  # Output: <class 'NoneType'>
